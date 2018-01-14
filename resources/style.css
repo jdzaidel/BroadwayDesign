@@ -44,3 +44,16 @@ nav p{
   font-weight: bold;
   color: white;
 }
+footer{
+  font-family: Helvetica;
+  Font-size: 11px;
+  Color: White;
+  Background-color: dimgray;
+  text-align: left;
+}
+
+footer a{
+  Font-weight: bold;
+  font-size: 23px;
+  padding-left: 5px;
+}
